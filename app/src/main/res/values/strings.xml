@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gradle Project</string>
+    <string name="tell_joke">Tell Joke</string>
+</resources>
